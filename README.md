@@ -1,17 +1,22 @@
-```
-    ,Ñ▓                                       Alen@Layobot
-                    ▄█▌▄██▄                    ------------
-                  ▄█████▀▓NM=,                 OS: Windows
-                 ▓█████   ▄╗╓⌐                 Lenguajes: C++, Python, HTML/CSS
-                ▄███████⌐▓`╙╙                  Herramientas: VS Code, Git
-               ▄████████▌▐_                    Actualmente: Aprendiendo programación
-             ▄███████████▌
-           ╔█████████▀   C                     contacto
-          ╔███████████  ▄_                     --------
-         ╓████████▀██▌╓▓"                      GitHub: github.com/Layobot
-        ▄████▀████▄  ▐╜▐
-       ▐██████ ▐█▀▐  ▌W▐
- ,▄MMM*═▄▄,████▀▀Ü ,  ▌▓ ▐╟ &
-▓███▄.  4████ ,╜  ╨═8╧═╧▌ *▐wwÅ
-   ╙╙¬╙╙╙╙╙╙╙`╙╙'`"""    ╙╙'
-```
+
+     
+     
+     
+                                  ,Ñ▓                           Alen@Layobot
+                                ▄█▌▄██▄                         ------------
+                              ▄█████▀▓NM=,                      Programing languages: Python, HTML/CSS, C++
+                             ▓█████   ▄╗╓⌐                      Ediitor: VSCode, Git 
+                            ▄███████⌐▓`╙╙                       OS: Windows 
+                           ▄████████▌▐_                         Hobby: Rock/synthwave, Gaming, Paisajismo contemplativo
+                         ▄███████████▌                          Other: A calm person 22 years
+                       ╔█████████▀   C
+                      ╔███████████  ▄_
+                     ╓████████▀██▌╓▓"                           Contacts                         
+                    ▄████▀████▄  ▐╜▐                            --------
+                   ▐██████ ▐█▀▐  ▌W▐                            Email: pinedaalen10@gmail.com
+         ,▄MMM*═▄▄,████▀▀Ü ,  ▌▓ ▐╟ &                           GitHub: github.com/Layobot
+        ▓███▄.  4████ ,╜  ╨═8╧═╧▌ *▐wwÅ
+           ╙╙¬╙╙╙╙╙╙╙`╙╙'`"""    ╙╙'
+     
+     
+    """""""""""""""""""""""""""""""""""""""""""""
