@@ -13,7 +13,7 @@
                       ╔███████████  ▄_
                      ╓████████▀██▌╓▓"                           Contacts                         
                     ▄████▀████▄  ▐╜▐                            --------
-                   ▐██████ ▐█▀▐  ▌W▐                            Email: pinedaalen10@gmail.com
+                   ▐██████ ▐█▀▐  ▌W▐                            Email: pinedaby2004@gmail.com
          ,▄MMM*═▄▄,████▀▀Ü ,  ▌▓ ▐╟ &                           GitHub: github.com/Layobot
         ▓███▄.  4████ ,╜  ╨═8╧═╧▌ *▐wwÅ
            ╙╙¬╙╙╙╙╙╙╙`╙╙'`"""    ╙╙'
