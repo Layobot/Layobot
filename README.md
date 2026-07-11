@@ -4,7 +4,7 @@
  
                               ,Ñ▓                           Alen@Layobot
                             ▄█▌▄██▄                         ------------
-                          ▄█████▀▓NM=,                      Programing languages: Python, HTML/CSS, C++
+                          ▄█████▀▓NM=,                      Programing languages: Python, HTML/CSS
                          ▓█████   ▄╗╓⌐                      Ediitor: VSCode, Git 
                         ▄███████⌐▓`╙╙                       OS: Windows 
                        ▄████████▌▐_                         Hobby: Rock/synthwave, Gaming, Paisajismo contemplativo
